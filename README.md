@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/anonymous20256/Zuka-Ai-"><img src="https://img.shields.io/github/stars/anonymous20256/Zuka-Ai-?color=FFD700&style=flat-square" alt="Stars" /></a>
-  <a href="https://github.com/anonymous20256/Zuka-Ai-/network/members"><img src="https://img.shields.io/github/forks/anonymous20256/Zuka-Ai-?color=00BFFF&style=flat-square" alt="Forks" /></a>
-  <a href="https://github.com/anonymous20256/Zuka-Ai-/watchers"><img src="https://img.shields.io/github/watchers/anonymous20256/Zuka-Ai-?label=Watchers&color=orange&style=flat-square" alt="Watchers" /></a>
-  <a href="https://github.com/anonymous20256/Zuka-Ai-"><img src="https://img.shields.io/github/repo-size/anonymous20256/Zuka-Ai-?style=flat-square&color=green" alt="Repo Size" /></a>
+  <a href="https://github.com/anonymous20256/Zuka-Ai"><img src="https://img.shields.io/github/stars/anonymous20256/Zuka-Ai?color=FFD700&style=flat-square" alt="Stars" /></a>
+  <a href="https://github.com/anonymous20256/Zuka-Ai/network/members"><img src="https://img.shields.io/github/forks/anonymous20256/Zuka-Ai?color=00BFFF&style=flat-square" alt="Forks" /></a>
+  <a href="https://github.com/anonymous20256/Zuka-Ai/watchers"><img src="https://img.shields.io/github/watchers/anonymous20256/Zuka-Ai?label=Watchers&color=orange&style=flat-square" alt="Watchers" /></a>
+  <a href="https://github.com/anonymous20256/Zuka-Ai"><img src="https://img.shields.io/github/repo-size/anonymous20256/Zuka-Ai?style=flat-square&color=green" alt="Repo Size" /></a>
   <img src="https://komarev.com/ghpvc/?username=anonymous20256&label=Profile+Views&color=blue&style=flat-square" alt="Profile View Counter"/>
 </p>
 
